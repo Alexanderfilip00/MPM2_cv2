@@ -1,0 +1,10 @@
+meno: Alex 
+priezvisko: Filip 
+
+Nakupene produkty: 
+id          nazov     vyrobca     zasoba     cena
+ 1            mys    logitech         13       40
+ 6          lampa        ikea         20       20
+
+cena nakupu: 920
+cena bez DPH: 736.00
